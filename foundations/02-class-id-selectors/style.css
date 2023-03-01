@@ -1,0 +1,19 @@
+.test-class{
+    background-color: #ffc0cb;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#test-id{
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.cool-class{
+    font-size: 24px;
+}
+
+#test-id-another{
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
